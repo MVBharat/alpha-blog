@@ -1,4 +1,27 @@
 $navbar-default-bg: #1c1d21;
 
-@import "bootstrap-sprockets";
+// @import "bootstrap-sprockets";
 @import "bootstrap";
+
+
+
+.login-box{
+  height: 80%;
+  width: 30%;
+  padding: 2%;
+  margin-top: 2%;
+  // margin-left: 35%;
+  float: right;
+  align-self: right;
+  background-color: #d7dbe0;
+  border-radius: 40px;
+}
+
+.login-box-body{
+  margin: 10px;
+  padding: 10px;
+}
+
+.login-form-group{
+  margin: 20px;
+}

@@ -1,6 +1,5 @@
 class ArticlesController < ApplicationController
   before_action :authenticate_user!
-  before_action :user_signed_in?
   before_action :set_article, only: [:show, :edit, :update, :destroy]
 
   # GET /articles
