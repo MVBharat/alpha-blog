@@ -17,7 +17,7 @@ gem 'puma', '~> 3.7'
 gem 'sprockets-rails', :require => 'sprockets/railtie'
 
 # gem 'bootstrap', '~> 4.1.3'
-gem 'bootstrap', '4.0'
+gem 'bootstrap', '~> 4.1.2'
 gem "autoprefixer-rails"
 
 gem 'sass-rails', '~> 5.0'
