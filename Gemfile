@@ -41,6 +41,9 @@ gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails'
 
 gem 'devise'
+
+gem "table_print"
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
